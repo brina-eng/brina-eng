@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/3WW4Zm1F2MeoU/giphy.gif?cid=ecf05e47lmhi2jyx6x74qre1llhaspzb308xcchgrbb910nz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180px" align = "right">
 
-I'm a WEB developer and I love the world of programming, so I can use my imagination to innovate this vast world of technology. And I'm currently training in ADS🩷
+I'm a C# | .NET developer and I love the world of programming, so I can use my imagination to innovate this vast world of technology. And I'm currently training in ADS🩷
 
 <div> 
   <a href="https://www.instagram.com/_sbrinz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
