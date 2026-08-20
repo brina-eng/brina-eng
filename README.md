@@ -22,7 +22,7 @@ I'm a Data Analyst passionate about automation and tech innovation. I love using
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div>
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=brina-eng&theme=tokyo-night&bg_color=0D1117&color=F2ACB9&line=F2ACB9&point=ffffff&area=true&hide_border=true" width="92%" />
 
