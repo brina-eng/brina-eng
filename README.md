@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/3WW4Zm1F2MeoU/giphy.gif?cid=ecf05e47lmhi2jyx6x74qre1llhaspzb308xcchgrbb910nz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180px" align = "right">
 
-I'm a Data Analyst passionate about automation and tech innovation. I love using creativity and logic to solve complex problems through data and artificial intelligence. Currently a Systems Analysis and Development (ADS) graduate, specializing in Machine Learning Engineering
+I'm a Data Analyst passionate about automation and tech innovation. I love using creativity and logic to solve complex problems through data and artificial intelligence. Currently a Systems Analysis and Development (ADS) graduate, specializing in Machine Learning Engineering.
 
 <div> 
   
