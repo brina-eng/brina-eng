@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F2ACB9&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC8899&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Sabrina+Lima;Specializing+in+Machine+Learning+Engineenring;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CC8899&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Sabrina+Lima;Specializing+in+Machine+Learning+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <img src="https://media.giphy.com/media/3WW4Zm1F2MeoU/giphy.gif?cid=ecf05e47lmhi2jyx6x74qre1llhaspzb308xcchgrbb910nz&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="180px" align = "right">
 
@@ -22,16 +22,16 @@ I'm a Data Analyst passionate about automation and tech innovation. I love using
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
-<div align="center">
+<div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=brina-dev&theme=tokyo-night&bg_color=0D1117&color=F2ACB9&line=F2ACB9&point=ffffff&area=true&hide_border=true" width="92%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brina-eng&theme=tokyo-night&bg_color=0D1117&color=F2ACB9&line=F2ACB9&point=ffffff&area=true&hide_border=true" width="92%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brina-dev&theme=radical" width="86%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brina-eng&theme=radical" width="86%" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brina-dev&theme=radical" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brina-dev&theme=radical" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brina-eng&theme=radical" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brina-eng&theme=radical" />
 
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brina-dev&theme=radical" />
-<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brina-dev&theme=radical&utcOffset=-3" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brina-eng&theme=radical" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brina-eng&theme=radical&utcOffset=-3" />
 
 </div>
