@@ -13,11 +13,6 @@ I'm a Data Analyst passionate about automation and tech innovation. I love using
   <a href="https://www.linkedin.com/in/sabrina-lima-495678252/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
-
-<div> 
-  
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=brina-dev&bg_color=000000&color=F2ACB9&line=F2ACB9&point=843140&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-</div>
  
 <div>
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -25,4 +20,18 @@ I'm a Data Analyst passionate about automation and tech innovation. I love using
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=brina-dev&theme=tokyo-night&bg_color=0D1117&color=F2ACB9&line=F2ACB9&point=ffffff&area=true&hide_border=true" width="92%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brina-dev&theme=radical" width="86%" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brina-dev&theme=radical" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brina-dev&theme=radical" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=brina-dev&theme=radical" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=brina-dev&theme=radical&utcOffset=-3" />
+
 </div>
